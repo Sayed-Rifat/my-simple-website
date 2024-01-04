@@ -5,3 +5,14 @@ div{
     border: 5px solid salmon;
     border-radius: 5px;
 }
+.Sheldon{
+    height:40%;
+    width: 70%;
+    image-orientation:inherit;
+    image-rendering: auto;
+    image-resolution: 100px;
+}
+.sheldon{
+    font-style:italic;
+    text-align: center;
+}
